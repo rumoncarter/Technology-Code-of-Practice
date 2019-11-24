@@ -15,7 +15,7 @@ This Code is envisioned to be part of an interconnected set of guidance and stan
 * A new (DRAFT) Service Standard, intended to guide internet era teams to create and run great public services, no matter the channel through which those services are delivered (i.e. whether digital or not); and
 * For those using technology, this new (DRAFT) Technology Code of Practice.
 
-It is envisioned that this Code will eventually reside as a GitHub repository at https://github.com/bcgov/ and online as part of https://digital.gov.bc.ca/. The content has been borrowed heavily - with gratitude - from the UK's Technology Code of Practice. 
+It is envisioned that this Code will eventually reside as a GitHub repository at https://github.com/bcgov/ and online as part of https://digital.gov.bc.ca/. The content has been borrowed heavily - with gratitude - from the UK's Technology Code of Practice (https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice). 
 
 ## The purpose of the Technology Code of Practice
 
