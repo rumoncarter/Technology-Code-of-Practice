@@ -6,6 +6,17 @@ The Technology Code of Practice has been developed pursuant to the Strategy for 
 
 Once released in final form, you will be <em>required</em> to follow this Code from the start of your technology programme, project or product development.
 
+## The Technology Code of Practice in Context
+
+This Code is envisioned to be part of an interconnected set of guidance and standards for all BC Public Service employees engaged in applying the culture, processes, business models and technology of the internet era to meeting the needs and expectations of the people of British Columbia - that is to say, the Digital BC community: 
+
+* Our British Columbia Public Service Oath of Employment (https://www2.gov.bc.ca/assets/gov/careers/managers-supervisors/managing-employee-labour-relations/oath_of_employment.pdf) and Standards of Conduct (https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct);
+* A set of (DRAFT) Digital Principles - fundamental propositions - intended to serve as the foundation for a system of behaviors to guide the work of the Digital BC community; 
+* A new (DRAFT) Service Standard, intended to guide internet era teams to create and run great public services, no matter the channel through which those services are delivered (i.e. whether digital or not); and
+* For those using technology, this new (DRAFT) Technology Code of Practice.
+
+It is envisioned that this Code will eventually reside as a GitHub repository at https://github.com/bcgov/ and online as part of https://digital.gov.bc.ca/. The content has been borrowed heavily - with gratitude - from the UK's Technology Code of Practice. 
+
 ## The purpose of the Technology Code of Practice
 
 Following the Technology Code of Practice will help you gain approval to spend from your department spend control process or from the BCDS Standards Assurance team, avoiding activities that’ll result in your application being rejected. It will also help you introduce technology that:
