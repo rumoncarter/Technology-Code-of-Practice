@@ -4,7 +4,7 @@ The BC Technology Code of Practice is a DRAFT set of criteria to help the BC Gov
 
 The Technology Code of Practice has been developed pursuant to the Strategy for Digital BC.
 
-You <em>must</em> follow this code from the start of your technology programme or project.
+Once released in final form, you will be <em>required</em> to follow this Code from the start of your technology programme, project or product development.
 
 ## The purpose of the Technology Code of Practice
 
