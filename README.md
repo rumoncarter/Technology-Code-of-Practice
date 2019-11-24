@@ -1,14 +1,14 @@
 # Technology Code of Practice
 
-The Technology Code of Practice is a set of criteria to help government design, build and buy better technology. It’s used as a cross-government agreed standard in the spend control process.
+The BC Technology Code of Practice is a DRAFT set of criteria to help the BC Government design, build and buy better technology. The Code is envisioned to be used as a cross-government agreed standard in government's in-development spend control process.
 
-The Technology Code of Practice has been developed pursuant to the Digital BC Strategy.
+The Technology Code of Practice has been developed pursuant to the Strategy for Digital BC.
 
-You must follow this code from the start of your technology programme or project.
+You <em>must</em> follow this code from the start of your technology programme or project.
 
 ## The purpose of the Technology Code of Practice
 
-Following the Technology Code of Practice will help you gain approval to spend from your department spend control process or from the GDS Standards Assurance team, avoiding activities that’ll result in your application being rejected. It will also help you introduce technology that:
+Following the Technology Code of Practice will help you gain approval to spend from your department spend control process or from the BCDS Standards Assurance team, avoiding activities that’ll result in your application being rejected. It will also help you introduce technology that:
 
 * meets user needs, based on research with your users
 * can be shared across government
