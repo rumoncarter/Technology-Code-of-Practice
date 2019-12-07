@@ -1,25 +1,27 @@
 # Technology Code of Practice
 
-The BC Technology Code of Practice is a DRAFT set of criteria to help the BC Government design, build and buy better technology. The Code is envisioned to be used as a cross-government agreed standard in government's in-development spend control process.
+The BC Technology Code of Practice, being developed pursuant to BC's Digital Framework and the priority actions therein, is a DRAFT set of criteria to help the BC Government design, build and buy better technology. The Code is envisioned to be used as a cross-government agreed standard in government's new, in-development digital investment and implementation process.
 
-The Technology Code of Practice has been developed pursuant to the Strategy for Digital BC.
-
-Once released in final form, you will be <em>required</em> to follow this Code from the start of your technology programme, project or product development.
+The Code as it exists below is an alpha (https://developer.gov.bc.ca/Agile-Delivery-Journey/Alpha), modelled after exemplars from leading jurisdictions, being developed at the direction of central government. The intent is for this Alpha Code to be socialized and iterated with the BCGov digital community, ultimately coming to form a co-created Practice that is uniformly adopted and followed from the start of any BC Government technology programme, project or product development.
 
 ## The Technology Code of Practice in Context
 
-This Code is envisioned to be part of an interconnected set of guidance and standards for all BC Public Service employees engaged in applying the culture, processes, business models and technology of the internet era to meeting the needs and expectations of the people of British Columbia - that is to say, the Digital BC community: 
+This Code is envisioned to be part of an interconnected set of guidance and standards for all BC Public Service employees and partners engaged in applying the culture, processes, business models and technology of the digital era to meeting the needs and expectations of the people of British Columbia - that is to say, the Digital BC community: 
 
-* Our British Columbia Public Service Oath of Employment (https://www2.gov.bc.ca/assets/gov/careers/managers-supervisors/managing-employee-labour-relations/oath_of_employment.pdf) and Standards of Conduct (https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct);
-* A set of (DRAFT) Digital Principles - fundamental propositions - intended to serve as the foundation for a system of behaviors to guide the work of the Digital BC community; 
+* For employees, our British Columbia Public Service Oath of Employment (https://www2.gov.bc.ca/assets/gov/careers/managers-supervisors/managing-employee-labour-relations/oath_of_employment.pdf) and Standards of Conduct (https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct);
+* A new set of (DRAFT) Digital Principles - fundamental propositions - intended to serve as the foundation for a system of behaviors to guide the work of the Digital BC community (find those Principles here: https://github.com/bcgov/digital-principles/); 
 * A new (DRAFT) Service Standard, intended to guide internet era teams to create and run great public services, no matter the channel through which those services are delivered (i.e. whether digital or not); and
 * For those using technology, this new (DRAFT) Technology Code of Practice.
 
-It is envisioned that this Code will eventually reside as a GitHub repository at https://github.com/bcgov/ and online as part of https://digital.gov.bc.ca/. The content has been borrowed heavily - with gratitude - from the UK's Technology Code of Practice (https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice). 
+It is envisioned that this Code will eventually reside as a GitHub repository at https://github.com/bcgov/ and online as part of https://digital.gov.bc.ca/. The content has been borrowed heavily - with gratitude - from the UK's Technology Code of Practice (https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice). In the content below, the drafters of this BC TCoP have left a number of UK-specific references to policies, guidance, blog posts, etc., having done so as signals to the kinds of artifacts relevant teams in the BCGov must/should consider creating for the BC context.
+
+A specific note re: cloud: At the time of original drafting of this BC TCoP, British Columbia has very recently amended its Freedom of Information and Protection of Privacy Act, having done so to, amongst other rationale, modernize this statute for the purpose of enabling the use of cloud services. However, while the UK Technology Code of Practice references a "cloud first policy," it would be very presumptive at this time to envision such a policy for British Columbia. Instead, the original drafters have taken the liberty of leaving reference to cloud in this BC TCoP, but using the term "intelligent." This language is not endorsed and is simply included as a placeholder for future consideration. 
+
+There are other uses of language in this in-development Code - e.g. "BC Private Cloud," "Investment & Implementation" - that should not be taken as anything more than placeholders, rather than foreshadowing or signals of future intent on the part of government or the agencies responsible for the matters set out below. 
 
 ## The purpose of the Technology Code of Practice
 
-Following the Technology Code of Practice will help you gain approval to spend from your department spend control process or from the BCDS Standards Assurance team, avoiding activities that’ll result in your application being rejected. It will also help you introduce technology that:
+Following the Technology Code of Practice will help you gain approval to spend from your department investment process / from the BC Digital Service Investment & Implementation team, avoiding activities that’ll result in your application being rejected. It will also help you introduce technology that:
 
 * meets user needs, based on research with your users
 * can be shared across government
@@ -32,9 +34,9 @@ The Technology Code of Practice contains guidance and case studies to help you m
 
 ## Using the Technology Code of Practice
 
-You should use the Technology Code of Practice for all of your technology projects or programmes. If your project or programme needs spend control approval you should contact the BC Digital Service (BCDS) Standards Assurance team as soon as possible. They’ll guide you through the approvals process which can provide you with greater confidence that your spend request will be approved.
+You should use the Technology Code of Practice for all of your technology projects or programmes. If your project or programme needs spend control approval you should contact the BC Digital Service (BCDS) Investment & Implementation team as soon as possible. They’ll guide you through the approvals process which can provide you with greater confidence that your spend request will be approved.
 
-All points of the Technology Code of Practice must be considered. Where legacy technology limits your ability to adhere to the standard, this must be explained as part of the spend control process. The Standards Assurance team consider individual circumstances for each application.
+All points of the Technology Code of Practice must be considered. Where legacy technology limits your ability to adhere to the standard, this must be explained as part of the digital investment process. The Standards Assurance team consider individual circumstances for each application.
 
 ## The Technology Code of Practice
 
@@ -56,9 +58,9 @@ Publish your code and use open source to improve transparency, flexibility and a
 
 Build technology that uses open standards to ensure your technology works and communicates with other technology, and can easily be upgraded and expanded.
 
-### 5. Use cloud first
+### 5. Use cloud intelligently
 
-Use public cloud first as stated in the government’s cloud first policy.
+Use public cloud intelligently, as stated in the government’s in-development cloud policy. [Note: Adapted from the UK's "cloud first" practice and policy.]
 
 ### 6. Make things secure
 
@@ -96,7 +98,7 @@ Understand your users and their needs. Develop knowledge of your users and what 
 
 To meet point 1 of the Technology Code of Practice you must show you understand your users and their needs.
 
-You’ll have to explain how you’re doing this as part of the spend control process.
+You’ll have to explain how you’re doing this as part of the digital investment process.
 How user research will help your programme
 
 Doing user research will help your technology project or programme by identifying:
@@ -104,16 +106,17 @@ Doing user research will help your technology project or programme by identifyin
 ●	any risks to introducing or changing the technology
 ●	the skills needed to deliver, use and manage the technology
 ●	the technologies that service support teams will need for their end users
-●	the commercial and operational needs, for example, the need to decommission an obsolete mainframe in order to create a more resilient data and service tier
+●	the commercial and operational needs; for example, the need to decommission an obsolete mainframe in order to create a more resilient data and service tier
 
 User research can also:
 
 ●	make sure that services such as online office suites, network shares, project management software and HR suites really do meet your users’ needs
 ●	support internal agreement of what you want the technology to help you achieve
-Related guides
+
+Related guides [Note: In-development in the BC context]
 
 ●	User research training for central government workers
-●	‘Understanding user needs’ from the Digital Service Standard for projects or programmes that include the creation of a service
+●	‘Understanding user needs’ from the BC Service Standard for projects or programmes that include the creation of a service
 ●	User research for government services: an introduction
 ●	Learning about users and their needs
 
@@ -122,47 +125,55 @@ Find out more about:
 ●	user research
 ●	service assessments
 ●	assisted digital support
+
 2. Make things accessible
+
 Make sure your technology, infrastructure and systems are accessible for users.
 
 To meet point 2 of the Technology Code of Practice your plan or design must show how you’re making technology inclusive.
 
-You’ll have to explain how you’re doing this as part of the spend control process.
+You’ll have to explain how you’re doing this as part of the digital investment process.
 How making things accessible and inclusive will help your programme
 
 Your technology project or programme will benefit from:
 
-●	following the law set out in the Equality Act 2010
+●	following the law set out in the Equality Act 2010 [No BC equivalent]
 ●	making your technology work for as many users as possible
 ●	being assured that all staff members on your team will be able to easily access the information and infrastructure needed to do their work including services such as online office suites, network shares, project management software and HR suites
 ●	being assured that there will be no barrier to employing people with specific access needs
+
 How to make your technology accessible and inclusive
+
 Your research must include users with a range of abilities. Make sure your technology and systems can be used by a diverse set of users by:
 
-●	meeting the requirements and following the accessibility guidance set out in the service manual
+●	meeting the requirements and following the accessibility guidance set out in the service manual [In-development in BC]
 ●	involving users with a range of impairments in user testing as you develop your services and systems
 ●	knowing the range of devices and software that need to work with your technology
 ●	enabling access to services through a range of web browsers and ensuring compatibility with assistive technologies and a range of end user devices
 Related Guides
-●	Equality Act 2010
+●	[Equality Act 2010]
 ●	Meeting the accessibility standard
 ●	Meeting compatibility with assistive technologies
+
 3. Be open and use open source
+
 Publish your code openly and use open source technology to improve transparency, flexibility and accountability.
 
 To meet point 3 of the Technology Code of Practice your plan or design must show you have considered the use of open source and publishing your code openly.
 
-You’ll have to explain how you’re meeting point 3 as part of the spend control process or any limitations you’ve encountered that prevented you from achieving this.
+You’ll have to explain how you’re meeting point 3 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.
+
 How open source differs to open standards
+
 Open source is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.
 
 Open standards are a set of rules designed to do a specific job in technology. They are also designed collaboratively and free to use. Open standards allow open source and closed source (proprietary) software to work together.
+
 How using open source will help your programme
 
 Give equal consideration to open source software when you choose technology.
 
 Your technology project or programme could benefit from:
-
 
 ●	solving common problems with readily available open source technology
 ●	more time and resource for customised solutions to solve the rare or unique problems
@@ -171,16 +182,21 @@ Your technology project or programme could benefit from:
 Be aware that open source software is not completely free so take into account the total cost of migrating, including exit and transition costs
 
 How being open will help your programme
+
 Publishing your code and data from the beginning of your technology project or programme will encourage:
 
 ●	clearer documentation, making it easier for your team to maintain the code, track changes to it and for other people to use it
 ●	cleaner and well-structured code that is easier to maintain
 ●	clarity around data that needs to remain protected and how that’s achieved
 ●	suggestions about how the code can be improved or where security can be improved
+
 Publishing code
+
 If your technology project or programme includes code in its development, refer to the Service Manual section on making source code open and reusable.
+
 Using open source
-The following questions are some of the points to consider when choosing technology and evaluating whether you want a proprietary or open source solution.
+
+The following questions are some of the points to consider when choosing technology and evaluating whether you want a proprietary or open source solution:
 
 1.	Does the solution do what you need it to do?
 2.	Does the solution meet the needs of your end users?
@@ -197,23 +213,30 @@ The following questions are some of the points to consider when choosing technol
 13.	Will the solution work with your other technology?
 14.	Is the solution’s licence acceptable to your organisation’s business requirements? Are there any restrictions or gaps that would cause issues?
 15.	Is the solution’s warranty acceptable and is there an option to buy one?
-Related guides and sources
+
+Related guides and sources [Note: From UK context, need BC versions]
+
 Open Source Initiative
 Choosing technology
 Making new source code open by default
 Ministry of Justice case study - why we code in the open
 GDS case study - making the register to vote code open
+
 4. Make use of open standards
+
 Build technology that uses open standards to ensure your technology works and communicates with other technology, and is easily upgraded and expanded.
 
 To meet point 4 of the Technology Code of Practice your plan or design must show you are using or have considered using open standards and data. You must make your technology project or programme as interoperable as possible.
 
-You’ll have to explain how you’re doing this as part of the spend control process.
+You’ll have to explain how you’re doing this as part of the digital investment process.
+
 How open source differs to open standards
 Open source is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.
 
 Open standards are a set of rules designed to do a specific job in technology. They are also designed collaboratively and free to use. Open standards allow open source and closed source (proprietary) software to work together.
+
 How open standards help your programme
+
 Open standards can be used when designing individual elements of the solution.
 
 Using open standards means you:
@@ -222,6 +245,7 @@ Using open standards means you:
 ●	increase compatibility with all stakeholders
 ●	potentially open up the range of companies you can purchase from as more of them are likely to use the same standard as you
 ●	can move between different technologies when you need to and don’t get locked into contracts
+
 Build interoperability into your programme
 
 Build flexibility into your technology by:
@@ -237,63 +261,75 @@ Open Standard Principles
 Open Standards for government
 About APIs
 
-5. Use cloud first
-Use public cloud first as stated in the government’s cloud first policy.
+5. Use cloud intelligently
 
-To meet point 5 of the Technology Code of Practice your plan or design must show you have considered using the public cloud as stated in the government’s cloud first policy.
+Use public cloud intelligently as stated in the government’s cloud  policy.
 
-You’ll have to explain how you’re meeting point 5 as part of the spend control process or any limitations you’ve encountered that prevented you from achieving this.
+To meet point 5 of the Technology Code of Practice your plan or design must show you have considered using the public cloud as stated in the government’s cloud  policy.
+
+You’ll have to explain how you’re meeting point 5 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.
+
 Summary description of cloud computing
+
 Cloud computing is a way of storing and retrieving data and software over the internet. The 3 main service areas are:
 
 ●	software-as-a-service (SaaS), which is the use of applications over the internet
 ●	platform-as-a-service (PaaS), which provides the platform for developing, testing and deploying your applications over the internet
 ●	infrastructure-as-a-service (IaaS), which provides the physical technology infrastructure/network virtually over the internet without the need for you to buy your own hardware
+
 How adopting cloud first will help your programme
 
-You can benefit from adopting a cloud first approach because:
+You can benefit from adopting an intelligent cloud approach because:
 
 ●	you can avoid upfront investments in your infrastructure, reducing overall costs
 ●	there’s greater flexibility to trial new services or make changes, with minimal cost
 ●	pricing models are scaleable - instead of building for the maximum usage you buy for less usage and increase or decrease as appropriate
-●	it will be easier to meet the Greening Government Commitments - cloud facilities typically try to use server space and power in the most efficient way possible
+●	it will be easier to meet the [Greening Government Commitments] - cloud facilities typically try to use server space and power in the most efficient way possible
 ●	upgrades and security patches can be applied continuously
 
 For greater detail on the benefits of using cloud you can read the blog posts on ‘Why we use the cloud: security and efficiency’ and ‘Why we use the cloud: supporting services’.
-Following the cloud first policy
 
-Follow the cloud first policy by:
+Following the cloud policy
 
-●	evaluating potential public cloud services before you consider alternatives such as Crown Hosting, which is a data centre available for all of government
+Follow the cloud policy by:
+
+●	evaluating potential public cloud services before you consider alternatives such as BC On-Prem Hosting, which is a data centre available for all of government, and BC Private Cloud, which is an on-premise container hosting service
 ●	demonstrating your chosen service represents the best value for money if selecting an alternative to public cloud - you must also show you’ve allowed for flexibility by being able to change the system and reduce costs over time
-Related guides
+
+Related guides [From UK context]
+
 Assessing a hosting business case
-Crown Hosting
+BC On-Prem Hosting
+BC Private Cloud
 
 6. Make things secure
+
 Keep systems and data safe with the appropriate level of security.
 
 To meet point 6 of the Technology Code of Practice your plan or design must show how you are securing data and systems.
 
-You’ll have to explain how you’re doing this as part of the spend control process.
+You’ll have to explain how you’re doing this as part of the digital investment process.
 Build security in from the start of your project or programme
 
-Include security at the start of the project. Have your team involved in making each element secure instead of your security experts adding technical countermeasures to a finished product.
+Include security at the start of the project. Have your team involved in making each element secure, from the start, instead of your security experts adding technical countermeasures to a finished product.
 
 Training users and having clear processes are important for security, as is doing realistic threat assessments and taking a balanced approach to managing risk.
 
 Plan how to deny, and quickly recover from, malicious access. Make sure you have processes in place to record information about any attacks and use this data to improve defences.
+
 How to secure your technology
 
 Choose the appropriate level of security for your technology project or programme. Consider the risks and have processes in place to mitigate against them and improve time to recovery.
 
 You can protect your data and infrastructure by:
 
-●	following the principles set out in the Security policy framework and Security classification policy
-●	following the National Cyber Security Centre’s information risk management guidance
-●	designing and implementing the components of your system according to government best practice, including network principles, security design principles for digital services and securing government email
-●	determining the security requirements of cloud services using the Cloud security principles and accompanying guidance
-Related guides
+●	following the principles set out in the [Security policy framework and Security classification policy]
+●	following the [National Cyber Security Centre’s information risk management guidance]
+●	designing and implementing the components of your system according to government best practice, including [network principles, security design principles for digital services and securing government email]
+●	determining the security requirements of cloud services using the [Cloud security principles] and accompanying guidance
+
+Related guides [UK]
+
 Security policy framework
 Network principles
 Security classification policy
@@ -310,7 +346,10 @@ Make sure citizens’ rights are protected by integrating privacy as an essentia
 
 To meet point 7 of the Technology Code of Practice your plan or design must show how you are considering privacy by design.
 
-You’ll have to explain how you’re doing this as part of the spend control process.
+You’ll have to explain how you’re doing this as part of the digital investment process.
+
+[Following section from UK TCoP left in for purposes of a template for BC]
+
 About the EU General Data Protection Regulation
 The EU General Data Protection Regulation (GDPR) website and the Information Commissioner's Office (ICO) provide information about the GDPR. The Technology Code of Practice summarises the key points.
 
@@ -354,13 +393,18 @@ GDPR summary of legislation
 UK Digital Strategy
 Data Science Ethical Framework
 
+[/end UK template]
+
 8. Share and reuse technology
+
 Promote good practice and avoid duplicated efforts by sharing and reusing services, data and software components.
 
 To meet point 8 of the Technology Code of Practice your plans must show you have considered sharing and reusing technology.
 
-You’ll have to explain how you’re meeting point 8 as part of the spend control process or any limitations you’ve encountered that prevented you from achieving this.
+You’ll have to explain how you’re meeting point 8 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.
+
 Benefits of sharing and reusing
+
 Sharing solutions from your project or programme
 
 When building a solution consider that others may want to use it in the future. It’s easier and cheaper to build this possibility in at the start than at the end. Consider the general application, not just your own departmental application, of the specific problem you are solving. Other projects or programmes can benefit if you share a solution to a common problem.
@@ -372,31 +416,37 @@ Your technology project or programme will benefit from reuse by:
 ●	avoiding duplication and unnecessary investments by sharing and reusing government services, information, data and software components
 ●	speeding up the initial project or programme phases by sharing and reusing documentation from discovery and pilot projects
 ●	finding the best value for money by looking outside government for existing services and capabilities such as cloud hosting
+
 How you can share and reuse technology
 
 There are several technology resources and common government platforms available to all government organisations.
+
 Communities
-There are 4 cross-government technology communities that discuss the latest thinking on services. You can apply to join through the Service Manual.
+
+There are 4 cross-government technology communities that discuss the latest thinking on services. You can apply to join through the Service Manual. [UK exemplars left in place for BC guidance]
 
 ●	Technology community (backend development)
 ●	Technology community (frontend development)
 ●	Technology community (technical architecture)
 ●	Technology community (web operations)
+
 Government platforms
 
-Consider using common government platforms and services where appropriate. These include:
+Consider using common government platforms and services where appropriate. These include: [UK exemplars left in place for BC guidance]
 
-●	GOV.UK Notify for user notifications
-●	GOV.UK Pay for payments
-●	GOV.UK Platform as a Service for hosting
-●	GOV.UK Verify for secure identity assurance
-●	performance dashboards for Services data
+●	GOV.UK Notify for user notifications [In-development in BC]
+●	GOV.UK Pay for payments [PayBC?]
+●	GOV.UK Platform as a Service for hosting [OCP?]
+●	GOV.UK Verify for secure identity assurance [BC Services Card?]
+●	performance dashboards for Services data [GDX Analytics?]
 ●	registers to access and use current and accurate data
 ●	guidance on how to choose and implement common technology services
 
 Common technology
 
 Common technology guides and services include:
+
+[UK exemplars left in for BC guidance]
 
 Secure email
 ●	Email security standards
@@ -431,13 +481,16 @@ Related Guides
 
 Read the GOV.UK proposition guide to make sure your content is appropriate for publication on GOV.UK.
 
+[/end UK exemplars]
+
 9. Integrate and adapt technology
 
 Your technology should adapt to future demands and work with existing technologies, processes and infrastructure in your organisation.
 
 To meet point 9 of the Technology Code of Practice your plan or design must show how your technology project or programme integrates into your organisation.
 
-You’ll have to explain how you’re doing this as part of the spend control process.
+You’ll have to explain how you’re doing this as part of the digital investment process.
+
 How integration helps your programme
 
 Good integration means making sure your new technology works with legacy solutions without limiting your ability to adapt to future demands or upgrade systems.
@@ -448,7 +501,9 @@ Your programme will benefit from:
 ●	less downtime on your regular processes when you upgrade or amend them
 ●	systems which enforce built-in redundancy of services, minimising single points of failure
 ●	lower long-term support costs
+
 Fitting new technology into your organisation
+
 Each organisation’s technology and infrastructure will have services and issues that are unique. There are some common elements to consider when fitting new technology into your current or legacy system, including:
 
 ●	how different aspects of your organisation’s IT operating model come together, including business areas such as processes, governance, service support and service delivery
@@ -477,40 +532,44 @@ When managing system processes and service management integration aim to:
 System integration is important for the overall network performance and for considering your organisation’s service management.
 
 Service management depends on how your current infrastructure is managed, what new technology is being integrated and what the longer-term business objectives are for IT in the organisation.
+
 Related Guides
 
-List of guides on the topics of:
+List of [UK] guides on the topics of:
 
 ●	networking
 ●	legacy
 ●	buying technology
+
 10. Make better use of data
+
 Consider how to minimise data collection and reuse data to avoid duplication of datasets.
 
 To meet point 10 of the Technology Code of Practice your plans must show you’ve considered minimising data collection and duplication.
 
-You’ll have to explain how you’re meeting point 10 as part of the spend control process or any limitations you’ve encountered that prevented you from achieving this.
+You’ll have to explain how you’re meeting point 10 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.
 
 How minimising data collection and duplication will help your programme
 
 Minimising data collection and duplication will mean your project benefits from:  
 
-●	adhering to the Government Transformation Strategy and the UK Digital Strategy
+●	adhering to the Government Transformation Strategy and the UK Digital Strategy [UK]
 ●	saving time and money by reusing open data that is already available
 ●	infrastructure and services that contain consistent information
 ●	giving your users a more consistent experience when using government services online, which builds trust
 ●	potentially reducing unnecessary new demands for data storage
+
 How your programme can make better use of data
 
 When using data your obligations include:
 
 ●	making your data open by default, following Open Data principles when publishing data
 ●	making sure users of transactional services have access to data held about them - the service should clearly communicate how data will be used
-●	following the Information Commissioner’s Code of Practice for data sharing
-●	conducting a Privacy Impact Assessment in line with the ICO Code of Practice when using personal data
-●	anonymising personal data in accordance with the ICO Code of Practice for anonymisation
-●	considering ethical issues around using data, and assessing these according to the principles of the Data Science Ethical Framework
-●	holding data securely and for specified purposes, in accordance with point 7 in the Digital Service Standard  
+●	following the [UK] Information Commissioner’s Code of Practice for data sharing
+●	conducting a Privacy Impact Assessment in line with the [UK] ICO Code of Practice when using personal data
+●	anonymising personal data in accordance with the [UK] ICO Code of Practice for anonymisation
+●	considering ethical issues around using data, and assessing these according to the principles of the [UK] Data Science Ethical Framework
+●	holding data securely and for specified purposes, in accordance with point 7 in the Service Standard  
 
 To make better use of data consider:
 
@@ -519,8 +578,10 @@ To make better use of data consider:
 ●	using common standards and patterns to ensure data can be easily analysed, and where appropriate, shared with other departments
 ●	understanding best practices for collecting, storing, analysing and sharing data from other departments, other governments and other sectors
 ●	keeping data for only as long as necessary, and securely deleting the data when it’s no longer needed
+
 Related guides
-Policies and guidance available includes:
+
+[UK] Policies and guidance available includes:
 
 ●	Data Science and Ethical Framework
 ●	Publish and use government's open data
@@ -538,7 +599,7 @@ Your purchasing strategy must show you have considered commercial and technology
 
 To meet point 11 of the Technology Code of Practice your plan or design must show your sourcing strategy and how your contracts meet government rules and guidelines.
 
-You’ll have to explain how you’re doing this as part of the spend control process.
+You’ll have to explain how you’re doing this as part of the digital investment process.
 
 How defining your purchasing strategy will help your project
 
@@ -554,6 +615,7 @@ Your technology project or programme will benefit from:
 ●	a clearer view of contract status, risks and issues
 
 Commercial approach
+
 Your sourcing strategy must demonstrate that you have a thorough understanding of the commercial undertakings required to deliver, use and manage your programme. You should plan how to manage multiple suppliers, where that structure is appropriate for the organisation’s operating model, and when they're working as part of the same delivery teams. This includes:
 
 ●	routinely challenging your sourcing strategies to consider whether your requirements can be simplified or broken up to allow for greater competition in the marketplace, including by small and medium-sized enterprises.
@@ -562,36 +624,46 @@ Your sourcing strategy must demonstrate that you have a thorough understanding o
 ●	understanding where and how you’ve disaggregated the technology that underpins your programme and the contracts that supply the technology
 ●	considering what skills and capabilities your organisation needs to deliver and support the product or service you’ll purchase
 ●	using a sourcing model that fits your services, and works in your organisation’s specific circumstances
+
 Technology considerations
+
 Your sourcing strategy must consider technology approaches that will encourage the future use of your product or service, including:
 
 ●	breaking up services in line with industry best practices including using a lean sourcing approach, pre-procurement market engagement and being as open as possible
 ●	using off the shelf products and services where possible - avoid customising these products in a way that stops you from maintaining, upgrading or removing them in future
-●	complying with the Greening Government Commitments to reduce your organisation’s environmental impact
+●	complying with the [UK] Greening Government Commitments to reduce your organisation’s environmental impact
+
 Use common government sourcing routes
+
 Find appropriate services and suppliers to avoid lengthy and expensive procurement processes. Work with your departmental commercial team to understand which route is most appropriate. Use approved sourcing routes including:
 
-●	the Digital Marketplace for technology or people for digital projects
-●	technology frameworks available from Crown Commercial Service
+●	the [in-development in BC] Digital Marketplace for technology or people for digital projects
+●	technology frameworks available from [UK] Crown Commercial Service
+
 Follow government contractual rules and guidelines
 
-Contracts must:
+Contracts must [UK exemplars left in]:
+
 ●	not be over £100 million in value – unless there’s an exceptional reason
 ●	be explicit about the ownership of government data, including data created through the operation of the service
 ●	be explicit about the ownership of intellectual property involved in the delivery of a technology service (including software code and the business rules that process information between user interfaces and stored data)
 
 Contracts should:
+
 ●	where economic, include a break clause at a maximum of 2 years which allows you to terminate the contract with minimal exit costs
 ●	ensure competition from the widest possible range of suppliers using smaller contracts where they improve value
 ●	include usage-based billing models where appropriate and where this represents best value for money
 ●	address the need for continuous improvement, maintaining market competitiveness and flexibility to meet changing requirements
 
 Remember that:
+
 ●	you can use the CCS technology category framework agreements which have pre-defined terms and conditions
 ●	suppliers must not provide either systems integration, service integration or service management services at the same time as providing a component service within that system
 ●	you cannot automatically extend contracts unless there are extenuating circumstances
 ●	you should align contract duration to current best practices for the product or service in question
+
 Related guides
+
 Technology service principles
 Government buying collection
 Lean sourcing guidance
