@@ -6,7 +6,7 @@ The Code as it exists below is an alpha (https://developer.gov.bc.ca/Agile-Deliv
 
 ## The Technology Code of Practice in Context
 
-This Code is envisioned to be part of an interconnected set of guidance and standards for all BC Public Service employees and partners engaged in applying the culture, processes, business models and technology of the digital era to meeting the needs and expectations of the people of British Columbia - that is to say, the Digital BC community: 
+This Code is envisioned to be part of an interconnected set of guidance and standards for all BC Public Service employees and partners engaged in applying the culture, processes, business models and technology of the digital era to meet the needs and expectations of the people of British Columbia - that is to say, the Digital BC community: 
 
 * For employees, our British Columbia Public Service Oath of Employment (https://www2.gov.bc.ca/assets/gov/careers/managers-supervisors/managing-employee-labour-relations/oath_of_employment.pdf) and Standards of Conduct (https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct);
 * A new set of (DRAFT) Digital Principles - fundamental propositions - intended to serve as the foundation for a system of behaviors to guide the work of the Digital BC community (find those Principles here: https://github.com/bcgov/digital-principles/); 
@@ -34,7 +34,7 @@ The Technology Code of Practice contains guidance and case studies to help you m
 
 ## Using the Technology Code of Practice
 
-You should use the Technology Code of Practice for all of your technology projects or programmes. If your project or programme needs spend control approval you should contact the BC Digital Service (BCDS) Investment & Implementation team as soon as possible. They’ll guide you through the approvals process which can provide you with greater confidence that your spend request will be approved.
+You should use the Technology Code of Practice for all of your technology initiatives. If your initiative needs funding approval you should contact the BC Digital Service (BCDS) Investment & Implementation team as soon as possible. They’ll guide you through the approvals process which can provide you with greater confidence that your spend request will be approved.
 
 All points of the Technology Code of Practice must be considered. Where legacy technology limits your ability to adhere to the standard, this must be explained as part of the digital investment process. The Standards Assurance team consider individual circumstances for each application.
 
@@ -86,143 +86,146 @@ Consider how to minimise data collection and reuse data to avoid duplication of 
 
 Your purchasing strategy must show you’ve considered commercial and technology aspects, and contractual limitations.
 
-### 12. Meet the Digital Service Standard for digital services
+### 12. Meet the Service Standard for digital services
 
-If you are building a service as part of your technology project or programme you will also need to meet the Digital Service Standard.
+If you are building a service as part of your technology initiative, you will also need to meet the Service Standard.
 
 ## The Technology Code of Practice (Detailed)
 
-1. Define user needs
+### 1. Define user needs
 
 Understand your users and their needs. Develop knowledge of your users and what that means for your technology project or programme.
 
 To meet point 1 of the Technology Code of Practice you must show you understand your users and their needs.
 
-You’ll have to explain how you’re doing this as part of the digital investment process.
-How user research will help your programme
+You’ll have to explain how you’re doing this as part of the digital investment process.  
 
-Doing user research will help your technology project or programme by identifying:
+#### How user research will help your initiative
 
-●	any risks to introducing or changing the technology
-●	the skills needed to deliver, use and manage the technology
-●	the technologies that service support teams will need for their end users
-●	the commercial and operational needs; for example, the need to decommission an obsolete mainframe in order to create a more resilient data and service tier
+Doing user research will help your technology initiative by identifying:
 
-User research can also:
+●	any risks to introducing or changing the technology  
+●	the skills needed to deliver, use and manage the technology  
+●	the technologies that service support teams will need for their end users  
+●	the commercial and operational needs; for example, the need to decommission an obsolete mainframe in order to create a more resilient data and service tier  
 
-●	make sure that services such as online office suites, network shares, project management software and HR suites really do meet your users’ needs
-●	support internal agreement of what you want the technology to help you achieve
+User research can also:  
+●	make sure that services such as online office suites, network shares, project management software and HR suites really do meet your users’ needs  
+●	support internal agreement of what you want the technology to help you achieve   
 
-Related guides [Note: In-development in the BC context]
+#### Related guides [Note: In-development in the BC context]  
+● [Service Design in the BC Public Service] (https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/service-design-in-the-bc-public-service)  
+●	User research training for central government workers  
+●	‘Understanding user needs’ from the BC Service Standard for initiatives that include the creation of a service  
+●	User research for government services: an introduction  
+●	Learning about users and their needs  
 
-●	User research training for central government workers
-●	‘Understanding user needs’ from the BC Service Standard for projects or programmes that include the creation of a service
-●	User research for government services: an introduction
-●	Learning about users and their needs
+Find out more about:  
+●	user research  
+●	service assessments  
+●	assisted digital support  
 
-Find out more about:
 
-●	user research
-●	service assessments
-●	assisted digital support
+### 2. Make things accessible
 
-2. Make things accessible
+Make sure your technology, infrastructure and systems are accessible for users.  
 
-Make sure your technology, infrastructure and systems are accessible for users.
+To meet point 2 of the Technology Code of Practice your plan or design must show how you’re making technology inclusive.  
 
-To meet point 2 of the Technology Code of Practice your plan or design must show how you’re making technology inclusive.
+You’ll have to explain how you’re doing this as part of the digital investment process.  
 
-You’ll have to explain how you’re doing this as part of the digital investment process.
-How making things accessible and inclusive will help your programme
+#### How making things accessible and inclusive will help your initiative
 
-Your technology project or programme will benefit from:
+Your technology initiative will benefit from:  
 
-●	following the law set out in the Equality Act 2010 [No BC equivalent]
-●	making your technology work for as many users as possible
-●	being assured that all staff members on your team will be able to easily access the information and infrastructure needed to do their work including services such as online office suites, network shares, project management software and HR suites
-●	being assured that there will be no barrier to employing people with specific access needs
+●	Following the law set out in the Equality Act 2010 [No BC equivalent]  
+●	Making your technology work for as many users as possible  
+●	Being assured that all staff members on your team will be able to easily access the information and infrastructure needed to do their work including services such as online office suites, network shares, project management software and HR suites  
+●	Being assured that there will be no barrier to employing people with specific access needs  
 
-How to make your technology accessible and inclusive
+#### How to make your technology accessible and inclusive  
 
-Your research must include users with a range of abilities. Make sure your technology and systems can be used by a diverse set of users by:
+Your research must include users with a range of abilities. Make sure your technology and systems can be used by a diverse set of users by:  
 
-●	meeting the requirements and following the accessibility guidance set out in the service manual [In-development in BC]
-●	involving users with a range of impairments in user testing as you develop your services and systems
-●	knowing the range of devices and software that need to work with your technology
-●	enabling access to services through a range of web browsers and ensuring compatibility with assistive technologies and a range of end user devices
-Related Guides
-●	[Equality Act 2010]
-●	Meeting the accessibility standard
-●	Meeting compatibility with assistive technologies
+●	Meeting the requirements and following the accessibility guidance set out in the service manual [In-development in BC]  
+●	Involving users with a range of impairments in user testing as you develop your services and systems  
+●	Knowing the range of devices and software that need to work with your technology  
+●	Enabling access to services through a range of web browsers and ensuring compatibility with assistive technologies and a range of end user devices  
 
-3. Be open and use open source
+#### Related Guides  
+● [Accessble Government Toolkit] (https://www2.gov.bc.ca/gov/content/home/accessible-government)  	
+● [Equality Act 2010]  
+●	Meeting the accessibility standard  
+●	Meeting compatibility with assistive technologies  
 
-Publish your code openly and use open source technology to improve transparency, flexibility and accountability.
+### 3. Be open and use open source
 
-To meet point 3 of the Technology Code of Practice your plan or design must show you have considered the use of open source and publishing your code openly.
+Publish your code openly and use open source technology to improve transparency, flexibility and accountability.  
 
-You’ll have to explain how you’re meeting point 3 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.
+To meet point 3 of the Technology Code of Practice your plan or design must show you have considered the use of open source and publishing your code openly.  
 
-How open source differs to open standards
+You’ll have to explain how you’re meeting point 3 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.  
 
-Open source is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.
+#### How open source differs to open standards  
 
-Open standards are a set of rules designed to do a specific job in technology. They are also designed collaboratively and free to use. Open standards allow open source and closed source (proprietary) software to work together.
+Open source is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.  
 
-How using open source will help your programme
+Open standards are a set of rules designed to do a specific job in technology. They are also designed collaboratively and free to use. Open standards allow open source and closed source (proprietary) software to work together.  
 
-Give equal consideration to open source software when you choose technology.
+#### How using open source will help your initiative  
 
-Your technology project or programme could benefit from:
+Give equal consideration to open source software when you choose technology.  
 
-●	solving common problems with readily available open source technology
-●	more time and resource for customised solutions to solve the rare or unique problems
-●	lower implementation and running costs
+Your technology initiative could benefit from:  
+
+●	Solving common problems with readily available open source technology  
+●	More time and resource for customised solutions to solve the rare or unique problems  
+●	Lower implementation and running costs  
 
 Be aware that open source software is not completely free so take into account the total cost of migrating, including exit and transition costs
 
-How being open will help your programme
+#### How being open will help your initiative  
 
-Publishing your code and data from the beginning of your technology project or programme will encourage:
+Publishing your code and data from the beginning of your technology initiative will encourage:  
 
-●	clearer documentation, making it easier for your team to maintain the code, track changes to it and for other people to use it
-●	cleaner and well-structured code that is easier to maintain
-●	clarity around data that needs to remain protected and how that’s achieved
-●	suggestions about how the code can be improved or where security can be improved
+●	Clearer documentation, making it easier for your team to maintain the code, track changes to it and for other people to use it  
+●	Cleaner and well-structured code that is easier to maintain  
+●	Clarity around data that needs to remain protected and how that’s achieved  
+●	Suggestions about how the code can be improved or where security can be improved  
 
-Publishing code
+#### Publishing code  
 
-If your technology project or programme includes code in its development, refer to the Service Manual section on making source code open and reusable.
+If your technology initiative includes code in its development, refer to the Service Manual section on making source code open and reusable.
 
-Using open source
+#### Using open source  
 
-The following questions are some of the points to consider when choosing technology and evaluating whether you want a proprietary or open source solution:
+The following questions are some of the points to consider when choosing technology and evaluating whether you want a proprietary or open source solution:  
 
-1.	Does the solution do what you need it to do?
-2.	Does the solution meet the needs of your end users?
-3.	What are the solution’s initial and ongoing costs?
-4.	Will the staff need training or will expert users need to be employed to manage the solution?
-5.	If the solution is open source, how widely is the code already adopted? How mature is it?
-6.	Does the solution offer the level of support needed?
-7.	How well is the solution maintained and is there evidence of further development?
-8.	How reliable is the solution? This is hard to measure, but one way is to assess it by looking at its maturity.
-9.	How well does the solution perform? Can you analyse performance data or reviews?
-10.	How well will the solution scale to meet your needs?
-11.	Does the solution’s security meet your needs and does it have regular security patches?
-12.	Is the solution flexible? You can customise the solution to fully meet your needs but be aware this can make future updates and security patches hard to implement.
-13.	Will the solution work with your other technology?
-14.	Is the solution’s licence acceptable to your organisation’s business requirements? Are there any restrictions or gaps that would cause issues?
-15.	Is the solution’s warranty acceptable and is there an option to buy one?
+1.	Does the solution do what you need it to do?  
+2.	Does the solution meet the needs of your end users?  
+3.	What are the solution’s initial and ongoing costs?  
+4.	Will the staff need training or will expert users need to be employed to manage the solution?  
+5.	If the solution is open source, how widely is the code already adopted? How mature is it?  
+6.	Does the solution offer the level of support needed?  
+7.	How well is the solution maintained and is there evidence of further development?  
+8.	How reliable is the solution? This is hard to measure, but one way is to assess it by looking at its maturity.  
+9.	How well does the solution perform? Can you analyse performance data or reviews?  
+10.	How well will the solution scale to meet your needs?  
+11.	Does the solution’s security meet your needs and does it have regular security patches?  
+12.	Is the solution flexible? You can customise the solution to fully meet your needs but be aware this can make future updates and security patches hard to implement.  
+13.	Will the solution work with your other technology?  
+14.	Is the solution’s licence acceptable to your organisation’s business requirements? Are there any restrictions or gaps that would cause issues?  
+15.	Is the solution’s warranty acceptable and is there an option to buy one?  
 
-Related guides and sources [Note: From UK context, need BC versions]
+#### Related guides and sources [Note: From UK context, need BC versions]
 
-Open Source Initiative
-Choosing technology
-Making new source code open by default
-Ministry of Justice case study - why we code in the open
-GDS case study - making the register to vote code open
+Open Source Initiative  
+Choosing technology  
+Making new source code open by default  
+Ministry of Justice case study - why we code in the open  
+GDS case study - making the register to vote code open  
 
-4. Make use of open standards
+### 4. Make use of open standards
 
 Build technology that uses open standards to ensure your technology works and communicates with other technology, and is easily upgraded and expanded.
 
