@@ -220,118 +220,122 @@ The following questions are some of the points to consider when choosing technol
 #### Related guides and sources [Note: From UK context, need BC versions]
 
 Open Source Initiative  
-Choosing technology  
+[Choosing technology] (https://www.gov.uk/service-manual/technology/choosing-technology-an-introduction)  
 Making new source code open by default  
-Ministry of Justice case study - why we code in the open  
-GDS case study - making the register to vote code open  
+[Ministry of Justice case study - why we code in the open] (https://mojdigital.blog.gov.uk/2017/02/21/why-we-code-in-the-open/)  
+[GDS case study - making the register to vote code open] (https://gdstechnology.blog.gov.uk/2016/01/26/working-out-how-to-open-up-the-register-to-vote-code/)  
 
-### 4. Make use of open standards
+### 4. Make use of open standards  
 
-Build technology that uses open standards to ensure your technology works and communicates with other technology, and is easily upgraded and expanded.
+Build technology that uses open standards to ensure your technology works and communicates with other technology, and is easily upgraded and expanded.  
 
-To meet point 4 of the Technology Code of Practice your plan or design must show you are using or have considered using open standards and data. You must make your technology project or programme as interoperable as possible.
+To meet point 4 of the Technology Code of Practice your plan or design must show you are using or have considered using open standards and data. You must make your technology initiative as interoperable as possible.  
 
-You’ll have to explain how you’re doing this as part of the digital investment process.
+You’ll have to explain how you’re doing this as part of the digital investment process.  
 
-How open source differs to open standards
-Open source is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.
+#### How open source differs to open standards  
+Open source is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone.  
 
-Open standards are a set of rules designed to do a specific job in technology. They are also designed collaboratively and free to use. Open standards allow open source and closed source (proprietary) software to work together.
+Open standards are a set of rules designed to do a specific job in technology. They are also designed collaboratively and free to use. Open standards allow open source and closed source (proprietary) software to work together.  
 
-How open standards help your programme
+#### How open standards help your initiative  
 
-Open standards can be used when designing individual elements of the solution.
+Open standards can be used when designing individual elements of the solution.  
 
-Using open standards means you:
+Using open standards means you:  
 
-●	save time and money by reusing things that are already available
-●	increase compatibility with all stakeholders
-●	potentially open up the range of companies you can purchase from as more of them are likely to use the same standard as you
-●	can move between different technologies when you need to and don’t get locked into contracts
+●	Save time and money by reusing things that are already available  
+●	Increase compatibility with all stakeholders  
+●	Potentially open up the range of companies you can purchase from as more of them are likely to use the same standard as you  
+●	Can move between different technologies when you need to and don’t get locked into contracts  
 
-Build interoperability into your programme
+#### Build interoperability into your initiative . 
 
-Build flexibility into your technology by:
+Build flexibility into your technology by:  
 
-●	using open standards, complying with any that are compulsory for use in government, unless you’ve been granted an exemption
-●	being clear what data your systems will hold, and which identifiers are in place to make sure the data can be used effectively
-●	avoiding the duplication of data, and being very clear about their approved source
-●	using RESTful APIs for integration where possible
+●	Using open standards, complying with any that are compulsory for use in government, unless you’ve been granted an exemption  
+●	Being clear what data your systems will hold, and which identifiers are in place to make sure the data can be used effectively  
+●	Avoiding the duplication of data, and being very clear about their approved source  
+●	Using RESTful APIs for integration where possible  
+●	Publishing your APIs on the [BC Government API Registry] (https://catalogue.data.gov.bc.ca/group/bc-government-api-registry) to make them reusable    
 
-Related guides
+#### Related guides
 
-Open Standard Principles
-Open Standards for government
-About APIs
+[API Guidelines] (https://devhub-static-test-devhub-test.pathfinder.gov.bc.ca/Data-and-APIs/BC-Government-API-Guidelines?intention=LOGIN#error=login_required)  
+[API Registry] (https://catalogue.data.gov.bc.ca/group/bc-government-api-registry)  
+Open Standard Principles  
+Open Standards for government  
+About APIs  
 
-5. Use cloud intelligently
+### 5. Use cloud intelligently  
 
-Use public cloud intelligently as stated in the government’s cloud  policy.
+Use public cloud intelligently as stated in the government’s cloud  policy.  
 
-To meet point 5 of the Technology Code of Practice your plan or design must show you have considered using the public cloud as stated in the government’s cloud  policy.
+To meet point 5 of the Technology Code of Practice your plan or design must show you have considered using the public cloud as stated in the government’s cloud  policy.  
 
-You’ll have to explain how you’re meeting point 5 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.
+You’ll have to explain how you’re meeting point 5 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.  
 
-Summary description of cloud computing
+#### Summary description of cloud computing  
 
-Cloud computing is a way of storing and retrieving data and software over the internet. The 3 main service areas are:
+Cloud computing is a way of storing and retrieving data and software over the internet. The 3 main service areas are:  
 
-●	software-as-a-service (SaaS), which is the use of applications over the internet
-●	platform-as-a-service (PaaS), which provides the platform for developing, testing and deploying your applications over the internet
-●	infrastructure-as-a-service (IaaS), which provides the physical technology infrastructure/network virtually over the internet without the need for you to buy your own hardware
+●	Software-as-a-service (SaaS), which is the use of applications over the internet  
+●	Platform-as-a-service (PaaS), which provides the platform for developing, testing and deploying your applications over the internet  
+●	Infrastructure-as-a-service (IaaS), which provides the physical technology infrastructure/network virtually over the internet without the need for you to buy your own hardware  
 
-How adopting cloud first will help your programme
+#### How adopting cloud first will help your initiative  
 
-You can benefit from adopting an intelligent cloud approach because:
+You can benefit from adopting an intelligent cloud approach because:  
 
-●	you can avoid upfront investments in your infrastructure, reducing overall costs
-●	there’s greater flexibility to trial new services or make changes, with minimal cost
-●	pricing models are scaleable - instead of building for the maximum usage you buy for less usage and increase or decrease as appropriate
-●	it will be easier to meet the [Greening Government Commitments] - cloud facilities typically try to use server space and power in the most efficient way possible
-●	upgrades and security patches can be applied continuously
+●	You can avoid upfront investments in your infrastructure, reducing overall costs  
+●	There’s greater flexibility to trial new services or make changes, with minimal cost  
+●	Pricing models are scaleable - instead of building for the maximum usage you buy for less usage and increase or decrease as appropriate  
+●	It will be easier to meet the [Greening Government Commitments] - cloud facilities typically try to use server space and power in the most efficient way possible  
+●	Upgrades and security patches can be applied continuously  
 
-For greater detail on the benefits of using cloud you can read the blog posts on ‘Why we use the cloud: security and efficiency’ and ‘Why we use the cloud: supporting services’.
+For greater detail on the benefits of using cloud you can read the blog posts on ‘Why we use the cloud: security and efficiency’ and ‘Why we use the cloud: supporting services’.  
 
-Following the cloud policy
+#### Following the cloud policy  
 
-Follow the cloud policy by:
+Follow the cloud policy by:  
 
-●	evaluating potential public cloud services before you consider alternatives such as BC On-Prem Hosting, which is a data centre available for all of government, and BC Private Cloud, which is an on-premise container hosting service
-●	demonstrating your chosen service represents the best value for money if selecting an alternative to public cloud - you must also show you’ve allowed for flexibility by being able to change the system and reduce costs over time
+●	Evaluating potential public cloud services before you consider alternatives such as BC On-Prem Hosting, which is a data centre available for all of government, and BC Private Cloud, which is an on-premise container hosting service  
+●	Demonstrating your chosen service represents the best value for money if selecting an alternative to public cloud - you must also show you’ve allowed for flexibility by being able to change the system and reduce costs over time  
 
-Related guides [From UK context]
+#### Related guides [From UK context]  
 
-Assessing a hosting business case
-BC On-Prem Hosting
-BC Private Cloud
+Assessing a hosting business case  
+BC On-Prem Hosting  
+[BC Private Cloud] (https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/BC-Government-OpenShift-Container-Platform-Service-Definition)    
 
-6. Make things secure
+### 6. Make things secure
 
-Keep systems and data safe with the appropriate level of security.
+Keep systems and data safe with the appropriate level of security.  
 
-To meet point 6 of the Technology Code of Practice your plan or design must show how you are securing data and systems.
+To meet point 6 of the Technology Code of Practice your plan or design must show how you are securing data and systems.  
 
-You’ll have to explain how you’re doing this as part of the digital investment process.
-Build security in from the start of your project or programme
+You’ll have to explain how you’re doing this as part of the digital investment process.  
 
-Include security at the start of the project. Have your team involved in making each element secure, from the start, instead of your security experts adding technical countermeasures to a finished product.
+#### Build security in from the start of your initiative
 
-Training users and having clear processes are important for security, as is doing realistic threat assessments and taking a balanced approach to managing risk.
+Include security at the start of the project. Have your team involved in making each element secure, from the start, instead of your security experts adding technical countermeasures to a finished product.  
 
-Plan how to deny, and quickly recover from, malicious access. Make sure you have processes in place to record information about any attacks and use this data to improve defences.
+Training users and having clear processes are important for security, as is doing realistic threat assessments and taking a balanced approach to managing risk.  
 
-How to secure your technology
+Plan how to deny, and quickly recover from, malicious access. Make sure you have processes in place to record information about any attacks and use this data to improve defences.  
 
-Choose the appropriate level of security for your technology project or programme. Consider the risks and have processes in place to mitigate against them and improve time to recovery.
+#### How to secure your technology  
 
-You can protect your data and infrastructure by:
+Choose the appropriate level of security for your technology initiative. Consider the risks and have processes in place to mitigate against them and improve time to recovery.  
 
-●	following the principles set out in the [Security policy framework and Security classification policy]
-●	following the [National Cyber Security Centre’s information risk management guidance]
-●	designing and implementing the components of your system according to government best practice, including [network principles, security design principles for digital services and securing government email]
-●	determining the security requirements of cloud services using the [Cloud security principles] and accompanying guidance
+You can protect your data and infrastructure by:  
 
-Related guides [UK]
+●	Following the principles set out in the [Information Security Policy and Guidelines] (https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/information-security-policy-and-guidelines) and [Information Security Classification Standard] (https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-classification)  
+●	Following the [National Cyber Security Centre’s information risk management guidance]  
+●	Designing and implementing the components of your system according to government best practice, including [network principles, security design principles for digital services and securing government email]  
+●	Determining the security requirements of cloud services using the [Cloud security principles] and accompanying guidance  
+
+#### Related guides [UK]  
 
 Security policy framework
 Network principles
@@ -343,58 +347,61 @@ NCSC security design principles for digital services
 NCSC cloud security principles
 NCSC cloud security collection
 
-7. Make privacy integral
+### 7. Make privacy integral  
 
-Make sure citizens’ rights are protected by integrating privacy as an essential part of your system.
+Make sure citizens’ rights are protected by integrating privacy as an essential part of your system.  
 
-To meet point 7 of the Technology Code of Practice your plan or design must show how you are considering privacy by design.
+To meet point 7 of the Technology Code of Practice your plan or design must show how you are considering privacy by design.  
 
-You’ll have to explain how you’re doing this as part of the digital investment process.
+You’ll have to explain how you’re doing this as part of the digital investment process.  
 
 [Following section from UK TCoP left in for purposes of a template for BC]
 
-About the EU General Data Protection Regulation
-The EU General Data Protection Regulation (GDPR) website and the Information Commissioner's Office (ICO) provide information about the GDPR. The Technology Code of Practice summarises the key points.
+#### About the EU General Data Protection Regulation  
+The EU General Data Protection Regulation (GDPR) website and the Information Commissioner's Office (ICO) provide information about the GDPR. The Technology Code of Practice summarises the key points.  
 
-The GDPR will come into force on 25 May 2018. It’s about protecting citizens’ personal data while it is being processed or moved.
+The GDPR will come into force on 25 May 2018. It’s about protecting citizens’ personal data while it is being processed or moved.  
 
-You must be ready to comply with this new regulation and consider the ethical and appropriate use of data and technology.
+You must be ready to comply with this new regulation and consider the ethical and appropriate use of data and technology.  
 
-GDPR is adopting privacy by design as part of the regulation. There is a legal requirement in the GDPR for the protection of citizens’ data to be included from the start of the design process. GDPR includes upfront penalties for not complying.
+GDPR is adopting privacy by design as part of the regulation. There is a legal requirement in the GDPR for the protection of citizens’ data to be included from the start of the design process. GDPR includes upfront penalties for not complying.  
 
-Maintaining the privacy of citizens’ personal data includes security. Privacy also includes how citizens:
+Maintaining the privacy of citizens’ personal data includes security. Privacy also includes how citizens:  
 
-●	consent to the use of their personal data
-●	have the right to have personal data erased
-●	have the right to restrict the processing of personal data
-How privacy by design will help your programme
+●	Consent to the use of their personal data  
+●	Have the right to have personal data erased  
+●	Have the right to restrict the processing of personal data  
 
-Your technology project or programme will benefit from:
+#### How privacy by design will help your initiative
 
-●	being proactive about privacy and reducing the risks of data theft
-●	identifying potential privacy issues earlier when they are easier and cheaper to solve
-●	better awareness of privacy issues across the organisation
-●	adherence to GDPR when it comes into law
+Your technology initiative will benefit from:  
 
-How to embed privacy by design
-The EU General Data Protection Regulation (GDPR) replaces the Data Protection Directive 95/46/EC. It provides consistency of data privacy laws across Europe.
+●	Being proactive about privacy and reducing the risks of data theft  
+●	Identifying potential privacy issues earlier when they are easier and cheaper to solve  
+●	Better awareness of privacy issues across the organisation  
+●	Adherence to GDPR when it comes into law  
 
-The Information Commissioner's Office (ICO) has a self-assessment questionnaire about your organisation's readiness in implementing the GDPR. They also have a guide to data protection and suggest using Privacy Impact Assessments (PIAs) as part of your project or programmes risk management process. The following questions from the PIA code of practice are useful to consider:
+#### How to embed privacy by design  
 
-1.	Will the project or programme involve the collection of new information about individuals?
-2.	Will individuals have to provide information about themselves to the project or programme?
-3.	Will information about individuals be disclosed to organisations or people who have not previously had routine access to the information?
-4.	Are you using information about individuals for a purpose it is not currently used for, or in a way it is not currently used?
-5.	Does the project or programme involve you using new technology that might be perceived as being privacy intrusive? For example, the use of biometrics or facial recognition.
-6.	Will the project or programme result in you making decisions or taking action against individuals in ways that can have a significant impact on them?
-7.	Is the information about individuals of a kind particularly likely to raise privacy concerns or expectations? For example, health records, criminal records or other information that people would consider to be private.
-8.	Will the project or programme require you to contact individuals in ways that they may find intrusive?
-Related guides
-EU General Data Protection Regulation
-European Commission: Protection of personal data
-GDPR summary of legislation
-UK Digital Strategy
-Data Science Ethical Framework
+The EU General Data Protection Regulation (GDPR) replaces the Data Protection Directive 95/46/EC. It provides consistency of data privacy laws across Europe.  
+
+The Information Commissioner's Office (ICO) has a self-assessment questionnaire about your organisation's readiness in implementing the GDPR. They also have a guide to data protection and suggest using Privacy Impact Assessments (PIAs) as part of your initiative's risk management process. The following questions from the PIA code of practice are useful to consider:  
+
+1.	Will the initiative involve the collection of new information about individuals?  
+2.	Will individuals have to provide information about themselves to the initiative?
+3.	Will information about individuals be disclosed to organisations or people who have not previously had routine access to the information?  
+4.	Are you using information about individuals for a purpose it is not currently used for, or in a way it is not currently used?  
+5.	Does the initiative involve you using new technology that might be perceived as being privacy intrusive? For example, the use of biometrics or facial recognition.  
+6.	Will the initiative result in you making decisions or taking action against individuals in ways that can have a significant impact on them?  
+7.	Is the information about individuals of a kind particularly likely to raise privacy concerns or expectations? For example, health records, criminal records or other information that people would consider to be private.  
+8.	Will the initiative require you to contact individuals in ways that they may find intrusive?  
+
+#### Related guides  
+EU General Data Protection Regulation  
+European Commission: Protection of personal data  
+GDPR summary of legislation  
+UK Digital Strategy  
+Data Science Ethical Framework  
 
 [/end UK template]
 
