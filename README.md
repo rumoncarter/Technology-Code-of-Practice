@@ -403,284 +403,287 @@ GDPR summary of legislation
 UK Digital Strategy  
 Data Science Ethical Framework  
 
-[/end UK template]
+[/end UK template]  
 
-8. Share and reuse technology
+### 8. Share and reuse technology  
 
-Promote good practice and avoid duplicated efforts by sharing and reusing services, data and software components.
+Promote good practice and avoid duplicated efforts by sharing and reusing services, data and software components.  
 
-To meet point 8 of the Technology Code of Practice your plans must show you have considered sharing and reusing technology.
+To meet point 8 of the Technology Code of Practice your plans must show you have considered sharing and reusing technology.  
 
-You’ll have to explain how you’re meeting point 8 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.
+You’ll have to explain how you’re meeting point 8 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.  
 
-Benefits of sharing and reusing
+#### Benefits of sharing and reusing  
 
-Sharing solutions from your project or programme
+Sharing solutions from your initiative  
 
-When building a solution consider that others may want to use it in the future. It’s easier and cheaper to build this possibility in at the start than at the end. Consider the general application, not just your own departmental application, of the specific problem you are solving. Other projects or programmes can benefit if you share a solution to a common problem.
+When building a solution consider that others may want to use it in the future. It’s easier and cheaper to build this possibility in at the start than at the end. Consider the general application, not just your own departmental application, of the specific problem you are solving. Other initiatives can benefit if you share a solution to a common problem.  
 
-Reusing solutions to help your programme
+Reusing solutions to help your initiative
 
-Your technology project or programme will benefit from reuse by:
+Your technology initiative will benefit from reuse by:  
 
-●	avoiding duplication and unnecessary investments by sharing and reusing government services, information, data and software components
-●	speeding up the initial project or programme phases by sharing and reusing documentation from discovery and pilot projects
-●	finding the best value for money by looking outside government for existing services and capabilities such as cloud hosting
+●	Avoiding duplication and unnecessary investments by sharing and reusing government services, information, data and software components  
+●	Speeding up the initial project or programme phases by sharing and reusing documentation from discovery and pilot projects  
+●	Finding the best value for money by looking outside government for existing services and capabilities such as cloud hosting  
 
-How you can share and reuse technology
+#### How you can share and reuse technology  
 
-There are several technology resources and common government platforms available to all government organisations.
+There are several technology resources and common government platforms available to all government organisations.  
 
-Communities
+Communities  
 
-There are 4 cross-government technology communities that discuss the latest thinking on services. You can apply to join through the Service Manual. [UK exemplars left in place for BC guidance]
+There are 4 cross-government technology communities that discuss the latest thinking on services. You can apply to join through the Service Manual. [UK exemplars left in place for BC guidance]  
 
-●	Technology community (backend development)
-●	Technology community (frontend development)
-●	Technology community (technical architecture)
-●	Technology community (web operations)
+●	Technology community (backend development)  
+●	Technology community (frontend development)  
+●	Technology community (technical architecture)  
+●	Technology community (web operations)  
 
-Government platforms
+Government platforms  
 
-Consider using common government platforms and services where appropriate. These include: [UK exemplars left in place for BC guidance]
+Consider using common government platforms and services where appropriate. These include: [UK exemplars left in place for BC guidance]  
 
-●	GOV.UK Notify for user notifications [In-development in BC]
-●	GOV.UK Pay for payments [PayBC?]
-●	GOV.UK Platform as a Service for hosting [OCP?]
-●	GOV.UK Verify for secure identity assurance [BC Services Card?]
-●	performance dashboards for Services data [GDX Analytics?]
-●	registers to access and use current and accurate data
-●	guidance on how to choose and implement common technology services
+●	GOV.UK Notify for user notifications [In-development in BC]  
+●	GOV.UK Pay for payments [PayBC?]  
+●	GOV.UK Platform as a Service for hosting [OCP?]  
+●	GOV.UK Verify for secure identity assurance [BC Services Card?]  
+●	performance dashboards for Services data [GDX Analytics?]  
+●	registers to access and use current and accurate data  
+●	guidance on how to choose and implement common technology services  
 
-Common technology
+Common technology  
 
-Common technology guides and services include:
+Common technology guides and services include:  
 
-[UK exemplars left in for BC guidance]
+[UK exemplars left in for BC guidance]  
 
-Secure email
-●	Email security standards
-●	Securing government email
-●	Set up government email services securely
-●	Protect domains that don’t send email
+Secure email  
+●	Email security standards  
+●	Securing government email  
+●	Set up government email services securely  
+●	Protect domains that don’t send email  
 
-Networks and GovWifi
-●	Sharing workplace wireless networks
-●	Sharing wide area network connections in shared buildings
-●	GovWifi
-●	Set up GovWifi on your infrastructure
-●	Set up managed end user devices to automatically connect to GovWifi
-●	Connect to GovWifi
-●	Terms and conditions for connecting to GovWifi
+Networks and GovWifi  
+●	Sharing workplace wireless networks  
+●	Sharing wide area network connections in shared buildings  
+●	GovWifi  
+●	Set up GovWifi on your infrastructure  
+●	Set up managed end user devices to automatically connect to GovWifi  
+●	Connect to GovWifi  
+●	Terms and conditions for connecting to GovWifi  
 
-Public Services Network
-●	Introducing the UK public sector DNS
+Public Services Network  
+●	Introducing the UK public sector DNS  
 
-Government code for reuse
+Government code for reuse  
 
-Government publishes code openly in several places including GitHub. Some of the repositories in GitHub include:
+Government publishes code openly in several places including GitHub. Some of the repositories in GitHub include:  
 
-●	MOJ’s repository of services on their platform, for example, the postcode lookup. Find out more about their platform and some of their services or contact them at platforms@digital.justice.gov.uk
-●	the Home Office repository which includes useful forms for reuse
-●	GDS' repository contains their source code
-●	DEFRA’s repository
-●	GCHQ’s repository that includes their platform for data storage, processing and analysis
-Aggregation opportunities
-Crown Commercial Service provides information about current and future opportunities to aggregate buying requirements when purchasing technology.
-Related Guides
+●	MOJ’s repository of services on their platform, for example, the postcode lookup. Find out more about their platform and some of their services or contact them at platforms@digital.justice.gov.uk  
+●	the Home Office repository which includes useful forms for reuse  
+●	GDS' repository contains their source code  
+●	DEFRA’s repository  
+●	GCHQ’s repository that includes their platform for data storage, processing and analysis  
 
-Read the GOV.UK proposition guide to make sure your content is appropriate for publication on GOV.UK.
+Aggregation opportunities  
 
-[/end UK exemplars]
+Crown Commercial Service provides information about current and future opportunities to aggregate buying requirements when purchasing technology.  
 
-9. Integrate and adapt technology
+#### Related Guides  
 
-Your technology should adapt to future demands and work with existing technologies, processes and infrastructure in your organisation.
+Read the GOV.UK proposition guide to make sure your content is appropriate for publication on GOV.UK.  
 
-To meet point 9 of the Technology Code of Practice your plan or design must show how your technology project or programme integrates into your organisation.
+[/end UK exemplars]  
 
-You’ll have to explain how you’re doing this as part of the digital investment process.
+### 9. Integrate and adapt technology  
 
-How integration helps your programme
+Your technology should adapt to future demands and work with existing technologies, processes and infrastructure in your organisation.  
 
-Good integration means making sure your new technology works with legacy solutions without limiting your ability to adapt to future demands or upgrade systems.
+To meet point 9 of the Technology Code of Practice your plan or design must show how your technology initiative integrates into your organisation.  
 
-Your programme will benefit from:
+You’ll have to explain how you’re doing this as part of the digital investment process.  
 
-●	less risk to your infrastructure as integration planning will discover compatibility gaps in the new technology
-●	less downtime on your regular processes when you upgrade or amend them
-●	systems which enforce built-in redundancy of services, minimising single points of failure
-●	lower long-term support costs
+#### How integration helps your initiative . 
 
-Fitting new technology into your organisation
+Good integration means making sure your new technology works with legacy solutions without limiting your ability to adapt to future demands or upgrade systems.  
 
-Each organisation’s technology and infrastructure will have services and issues that are unique. There are some common elements to consider when fitting new technology into your current or legacy system, including:
+Your initiative will benefit from:  
 
-●	how different aspects of your organisation’s IT operating model come together, including business areas such as processes, governance, service support and service delivery
-●	how the new technology will work with your service management
-●	what skills and capabilities your organisation needs to deliver, support and continuously improve the new technology you’ll purchase
+●	Less risk to your infrastructure as integration planning will discover compatibility gaps in the new technology  
+●	Less downtime on your regular processes when you upgrade or amend them  
+●	Systems which enforce built-in redundancy of services, minimising single points of failure  
+●	Lower long-term support costs  
 
-To optimise systems integration consider:
+#### Fitting new technology into your organisation  
 
-●	adopting a continuous integration model so you can solve smaller issues iteratively (this is generally easier and cheaper than waiting to test everything at the end of a programme)
-●	designing your system using independently developed components that can easily work together
-●	building a system architecture early in the program to describe your current or future system and mapping hardware and software components
-●	defining a configuration management process
-●	doing component-level testing to make sure integration is possible
-●	doing regular integration and stress testing to track progress and make sure the system remains robust
+Each organisation’s technology and infrastructure will have services and issues that are unique. There are some common elements to consider when fitting new technology into your current or legacy system, including:  
 
-If you have chosen to use a systems integrator you should make sure they meet all of your requirements.
+●	How different aspects of your organisation’s IT operating model come together, including business areas such as processes, governance, service support and service delivery  
+●	How the new technology will work with your service management  
+●	What skills and capabilities your organisation needs to deliver, support and continuously improve the new technology you’ll purchase  
 
-When managing system processes and service management integration aim to:
+To optimise systems integration consider:  
 
-●	define the governance, processes, tools and information required to meet business needs and user needs
-●	map and track the interdependencies between the infrastructure and the services running on it
-●	provide support to the infrastructure and make sure you have the flexibility to add hardware and software
-●	be flexible so that processes can incorporate legacy and new infrastructure, including the use of cloud services
-●	understand the probable lifespan of your technologies (being aware of expiry and renewal timings) and create a roadmap showing your plan for retiring legacy systems
+●	Adopting a continuous integration model so you can solve smaller issues iteratively (this is generally easier and cheaper than waiting to test everything at the end of an initiative)  
+●	Designing your system using independently developed components that can easily work together  
+●	Building a system architecture early in the program to describe your current or future system and mapping hardware and software components  
+●	Defining a configuration management process  
+●	Doing component-level testing to make sure integration is possible  
+●	Doing regular integration and stress testing to track progress and make sure the system remains robust  
 
-System integration is important for the overall network performance and for considering your organisation’s service management.
+If you have chosen to use a systems integrator you should make sure they meet all of your requirements.  
 
-Service management depends on how your current infrastructure is managed, what new technology is being integrated and what the longer-term business objectives are for IT in the organisation.
+When managing system processes and service management integration aim to:  
 
-Related Guides
+●	Define the governance, processes, tools and information required to meet business needs and user needs  
+●	Map and track the interdependencies between the infrastructure and the services running on it  
+●	Provide support to the infrastructure and make sure you have the flexibility to add hardware and software  
+●	Be flexible so that processes can incorporate legacy and new infrastructure, including the use of cloud services  
+●	Understand the probable lifespan of your technologies (being aware of expiry and renewal timings) and create a roadmap showing your plan for retiring legacy systems  
 
-List of [UK] guides on the topics of:
+System integration is important for the overall network performance and for considering your organisation’s service management.  
 
-●	networking
-●	legacy
-●	buying technology
+Service management depends on how your current infrastructure is managed, what new technology is being integrated and what the longer-term business objectives are for IT in the organisation.  
 
-10. Make better use of data
+#### Related Guides  
 
-Consider how to minimise data collection and reuse data to avoid duplication of datasets.
+List of [UK] guides on the topics of:  
 
-To meet point 10 of the Technology Code of Practice your plans must show you’ve considered minimising data collection and duplication.
+●	Networking  
+●	Legacy  
+●	Buying technology  
 
-You’ll have to explain how you’re meeting point 10 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.
+### 10. Make better use of data  
 
-How minimising data collection and duplication will help your programme
+Consider how to minimise data collection and reuse data to avoid duplication of datasets.  
+
+To meet point 10 of the Technology Code of Practice your plans must show you’ve considered minimising data collection and duplication.  
+
+You’ll have to explain how you’re meeting point 10 as part of the digital investment process or any limitations you’ve encountered that prevented you from achieving this.  
+
+#### How minimising data collection and duplication will help your initiative
 
 Minimising data collection and duplication will mean your project benefits from:  
 
-●	adhering to the Government Transformation Strategy and the UK Digital Strategy [UK]
-●	saving time and money by reusing open data that is already available
-●	infrastructure and services that contain consistent information
-●	giving your users a more consistent experience when using government services online, which builds trust
-●	potentially reducing unnecessary new demands for data storage
+●	Adhering to the [BC Digital Framework] (https://digital.gov.bc.ca/digital-transformation/)  
+●	Saving time and money by reusing open data that is already available  
+●	Infrastructure and services that contain consistent information  
+●	Giving your users a more consistent experience when using government services online, which builds trust  
+●	Potentially reducing unnecessary new demands for data storage  
 
-How your programme can make better use of data
+#### How your initiative can make better use of data . 
 
-When using data your obligations include:
+When using data your obligations include:  
 
-●	making your data open by default, following Open Data principles when publishing data
-●	making sure users of transactional services have access to data held about them - the service should clearly communicate how data will be used
-●	following the [UK] Information Commissioner’s Code of Practice for data sharing
-●	conducting a Privacy Impact Assessment in line with the [UK] ICO Code of Practice when using personal data
-●	anonymising personal data in accordance with the [UK] ICO Code of Practice for anonymisation
-●	considering ethical issues around using data, and assessing these according to the principles of the [UK] Data Science Ethical Framework
-●	holding data securely and for specified purposes, in accordance with point 7 in the Service Standard  
+●	Making your data open by default, following Open Data principles when publishing data  
+●	Making sure users of transactional services have access to data held about them - the service should clearly communicate how data will be used  
+●	Following the [UK] Information Commissioner’s Code of Practice for data sharing  
+●	Conducting a Privacy Impact Assessment in line with the [UK] ICO Code of Practice when using personal data  
+●	Anonymising personal data in accordance with the [UK] ICO Code of Practice for anonymisation  
+●	Considering ethical issues around using data, and assessing these according to the principles of the [UK] Data Science Ethical Framework  
+●	Holding data securely and for specified purposes, in accordance with point 7 in the Service Standard  
 
-To make better use of data consider:
+#### To make better use of data consider:  
 
-●	making sure newly collected data can be made easily accessible to APIs for future use
-●	minimising the amount of data shared for achieving a specific purpose (large amounts of personal information should not be shared or copied unnecessarily)
-●	using common standards and patterns to ensure data can be easily analysed, and where appropriate, shared with other departments
-●	understanding best practices for collecting, storing, analysing and sharing data from other departments, other governments and other sectors
-●	keeping data for only as long as necessary, and securely deleting the data when it’s no longer needed
+●	Making sure newly collected data can be made easily accessible to APIs for future use  
+●	Minimising the amount of data shared for achieving a specific purpose (large amounts of personal information should not be shared or copied unnecessarily)  
+●	Using common standards and patterns to ensure data can be easily analysed, and where appropriate, shared with other departments  
+●	Understanding best practices for collecting, storing, analysing and sharing data from other departments, other governments and other sectors  
+●	Keeping data for only as long as necessary, and securely deleting the data when it’s no longer needed  
 
-Related guides
+#### Related guides  
 
-[UK] Policies and guidance available includes:
+[UK] Policies and guidance available includes:  
 
-●	Data Science and Ethical Framework
-●	Publish and use government's open data
-●	Unlocking the power of data in the UK economy and improving public confidence in its use - part 7 of the UK Digital Strategy
-●	Making better use of data - part of the Government Transformation Strategy 2017-2020
-●	Government transformation strategy - better use of data
-●	Data Protection Act which will be replaced by the EU General Data Protection Regulation (GDPR)
-●	Using registers to build a service
-●	summary of the Better use of data consultation by the Cabinet Office
-●	Local Government Association - Better use of data
+●	Data Science and Ethical Framework  
+●	Publish and use government's open data  
+●	Unlocking the power of data in the UK economy and improving public confidence in its use - part 7 of the UK Digital Strategy  
+●	Making better use of data - part of the Government Transformation Strategy 2017-2020  
+●	Government transformation strategy - better use of data  
+●	Data Protection Act which will be replaced by the EU General Data Protection Regulation (GDPR)  
+●	Using registers to build a service  
+●	Summary of the Better use of data consultation by the Cabinet Office  
+●	Local Government Association - Better use of data  
 
-11. Define your purchasing strategy
+### 11. Define your purchasing strategy  
 
-Your purchasing strategy must show you have considered commercial and technology aspects, and contractual limitations.
+Your purchasing strategy must show you have considered commercial and technology aspects, and contractual limitations.  
 
-To meet point 11 of the Technology Code of Practice your plan or design must show your sourcing strategy and how your contracts meet government rules and guidelines.
+To meet point 11 of the Technology Code of Practice your plan or design must show your sourcing strategy and how your contracts meet government rules and guidelines.  
 
-You’ll have to explain how you’re doing this as part of the digital investment process.
+You’ll have to explain how you’re doing this as part of the digital investment process.  
 
-How defining your purchasing strategy will help your project
+#### How defining your purchasing strategy will help your initiative
 
-Your technology project or programme will benefit from:
+Your technology initiative will benefit from:  
 
-●	competitive and innovative commercial products and opportunities
-●	long-term financial savings
-●	improved supplier negotiations
-●	a commercial approach that supports the disaggregation of contracts
-●	managing contract exits successfully, making sure the exiting supplier passes over any relevant knowledge and capabilities
-●	help with the transition to the cloud, commodity and common technology services
-●	shorter, more manageable contracts with a streamlined renewal process
-●	a clearer view of contract status, risks and issues
+●	Competitive and innovative commercial products and opportunities  
+●	Long-term financial savings  
+●	Improved supplier negotiations  
+●	A commercial approach that supports the disaggregation of contracts  
+●	Managing contract exits successfully, making sure the exiting supplier passes over any relevant knowledge and capabilities  
+●	Help with the transition to the cloud, commodity and common technology services  
+●	Shorter, more manageable contracts with a streamlined renewal process  
+●	A clearer view of contract status, risks and issues  
 
-Commercial approach
+#### Commercial approach  
 
-Your sourcing strategy must demonstrate that you have a thorough understanding of the commercial undertakings required to deliver, use and manage your programme. You should plan how to manage multiple suppliers, where that structure is appropriate for the organisation’s operating model, and when they're working as part of the same delivery teams. This includes:
+Your sourcing strategy must demonstrate that you have a thorough understanding of the commercial undertakings required to deliver, use and manage your initiative. You should plan how to manage multiple suppliers, where that structure is appropriate for the organisation’s operating model, and when they're working as part of the same delivery teams. This includes:  
 
-●	routinely challenging your sourcing strategies to consider whether your requirements can be simplified or broken up to allow for greater competition in the marketplace, including by small and medium-sized enterprises.
-●	using value chain mapping to help identify the products and their components you need, and whether it would be better to build or buy depending on their maturity as a product
-●	moving from large contracts with a single supplier to multiple suppliers where there’s an operational and value for money justification
-●	understanding where and how you’ve disaggregated the technology that underpins your programme and the contracts that supply the technology
-●	considering what skills and capabilities your organisation needs to deliver and support the product or service you’ll purchase
-●	using a sourcing model that fits your services, and works in your organisation’s specific circumstances
+●	Routinely challenging your sourcing strategies to consider whether your requirements can be simplified or broken up to allow for greater competition in the marketplace, including by small and medium-sized enterprises.  
+●	Using value chain mapping to help identify the products and their components you need, and whether it would be better to build or buy depending on their maturity as a product  
+●	Moving from large contracts with a single supplier to multiple suppliers where there’s an operational and value for money justification  
+●	Understanding where and how you’ve disaggregated the technology that underpins your initiative and the contracts that supply the technology  
+●	Considering what skills and capabilities your organisation needs to deliver and support the product or service you’ll purchase  
+●	Using a sourcing model that fits your services, and works in your organisation’s specific circumstances  
 
-Technology considerations
+#### Technology considerations  
 
-Your sourcing strategy must consider technology approaches that will encourage the future use of your product or service, including:
+Your sourcing strategy must consider technology approaches that will encourage the future use of your product or service, including:  
 
-●	breaking up services in line with industry best practices including using a lean sourcing approach, pre-procurement market engagement and being as open as possible
-●	using off the shelf products and services where possible - avoid customising these products in a way that stops you from maintaining, upgrading or removing them in future
-●	complying with the [UK] Greening Government Commitments to reduce your organisation’s environmental impact
+●	Breaking up services in line with industry best practices including using a lean sourcing approach, pre-procurement market engagement and being as open as possible  
+●	Where you use off the shelf products and services, avoiding customizations that stops you from maintaining, upgrading or removing these products and services in future  
+●	Complying with the [UK] Greening Government Commitments to reduce your organisation’s environmental impact  
 
-Use common government sourcing routes
+#### Use common government sourcing routes  
 
-Find appropriate services and suppliers to avoid lengthy and expensive procurement processes. Work with your departmental commercial team to understand which route is most appropriate. Use approved sourcing routes including:
+Find appropriate services and suppliers to avoid lengthy and expensive procurement processes. Work with your departmental commercial team to understand which route is most appropriate. Use approved sourcing routes including:  
 
-●	the [in-development in BC] Digital Marketplace for technology or people for digital projects
-●	technology frameworks available from [UK] Crown Commercial Service
+●	The [in-development in BC] Digital Marketplace for technology or people for digital projects  
+●	Technology frameworks available from [UK] Crown Commercial Service  
 
-Follow government contractual rules and guidelines
+#### Follow government contractual rules and guidelines  
 
-Contracts must [UK exemplars left in]:
+Contracts must [UK exemplars left in]:  
 
-●	not be over £100 million in value – unless there’s an exceptional reason
-●	be explicit about the ownership of government data, including data created through the operation of the service
-●	be explicit about the ownership of intellectual property involved in the delivery of a technology service (including software code and the business rules that process information between user interfaces and stored data)
+●	Not be over £100 million in value – unless there’s an exceptional reason  
+●	Be explicit about the ownership of government data, including data created through the operation of the service  
+●	Be explicit about the ownership of intellectual property involved in the delivery of a technology service (including software code and the business rules that process information between user interfaces and stored data)  
 
-Contracts should:
+Contracts should:  
 
-●	where economic, include a break clause at a maximum of 2 years which allows you to terminate the contract with minimal exit costs
-●	ensure competition from the widest possible range of suppliers using smaller contracts where they improve value
-●	include usage-based billing models where appropriate and where this represents best value for money
-●	address the need for continuous improvement, maintaining market competitiveness and flexibility to meet changing requirements
+●	Where economic, include a break clause at a maximum of 2 years which allows you to terminate the contract with minimal exit costs  
+●	Ensure competition from the widest possible range of suppliers using smaller contracts where they improve value  
+●	Include usage-based billing models where appropriate and where this represents best value for money  
+●	Address the need for continuous improvement, maintaining market competitiveness and flexibility to meet changing requirements  
 
-Remember that:
+Remember that:  
 
-●	you can use the CCS technology category framework agreements which have pre-defined terms and conditions
-●	suppliers must not provide either systems integration, service integration or service management services at the same time as providing a component service within that system
-●	you cannot automatically extend contracts unless there are extenuating circumstances
-●	you should align contract duration to current best practices for the product or service in question
+●	You can use the CCS technology category framework agreements which have pre-defined terms and conditions  
+●	Suppliers must not provide either systems integration, service integration or service management services at the same time as providing a component service within that system  
+●	You cannot automatically extend contracts unless there are extenuating circumstances  
+●	You should align contract duration to current best practices for the product or service in question  
 
-Related guides
+#### Related guides  
 
-Technology service principles
-Government buying collection
-Lean sourcing guidance
-Technology aggregation opportunities
-Commercial operating standards for government
-Public procurement policy
-Central government spending controls
-Contract management standards
-Commercial operating standards for government
+Technology service principles  
+Government buying collection . 
+Lean sourcing guidance  
+Technology aggregation opportunities  
+Commercial operating standards for government  
+Public procurement policy  
+Central government spending controls  
+Contract management standards  
+Commercial operating standards for government  
 
